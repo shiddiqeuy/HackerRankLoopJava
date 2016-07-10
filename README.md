@@ -37,11 +37,11 @@ Print the answer to each test case in separate lines.
 
 In the first case:
 
-1st term = 0+1*2 = 2
+1st term = 0+1 * 2 = 2
 
-2nd term = 0+1*2 + 2*2 = 6
+2nd term = 0+1 * 2 + 2 * 2 = 6
 
-3rd term = 0+1*2 + 2*2 + 4*2 =14
+3rd term = 0+1 * 2 + 2 * 2 + 4 * 2 =14
 
 and so on.
 
